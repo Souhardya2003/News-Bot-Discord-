@@ -25,6 +25,7 @@ This bot is not hosted yet therefore is not available 24/7.
 2. One can search for some historic news articles published by worldwide sources. 
 3. User can get current weather of any location using `$current weather for` command.
 4. This bot also forecast weather of any location for the next three days using `$forecast weather for` command.
+5. Use `$help` command to know more.
 
 # Remarks:-
 1. Feel free to make any changes to make the bot better.
