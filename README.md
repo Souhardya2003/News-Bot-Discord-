@@ -27,7 +27,7 @@ This bot is not hosted yet therefore is not available 24/7.
 4. This bot also forecast weather of any location for the next three days using `$forecast weather for` command.
 5. Use `$help` command to know more.
 
-# Remarks:-
+# More:-
 1. Feel free to make any changes to make the bot better.
 2. One can add much more features by adding new APIs or adding extra features of the current APIs. Refer documentation of the current APIs to know more.
 3. Prediction of stocks using machine learning by this bot is coming soon...
